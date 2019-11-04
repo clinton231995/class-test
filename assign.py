@@ -32,3 +32,4 @@ bubbleSort(arr)
 
 print ("Sorted array is:")
 print (arr) 
+print (arr)
